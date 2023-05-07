@@ -23,5 +23,4 @@ int main()
     {
         cout << "\tNúmero Solicitado Negativo\n";
     }
-    
 }
